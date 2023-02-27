@@ -168,8 +168,8 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 
 3.just like that the other variables of graphs shows the relation between the two variables like.
 
-4.y-axis(total_bill) and x-axis(total_bill): total_bill relation with total_bill y-axis(total_bill) and x-axis(tip) total_bill relation with tip y-axis(total_bill) and x-axis(size) : total_bill relation with size
+4.y-axis(total_bill) and x-axis(total_bill): total_bill relation with total_bill y-axis(total_bill) and x-axis(tip) total_bill relation with tip y-axis(total_bill) and x-axis(size) : total_bill relation with size.
 
-5.y-axis(tip) and x-axis(total_bill) : tip relation with total_bill y-axis(tipl) and x-axis(tip) : tip relation with tip y-axis(tip) and x-axis(size) : tip relation with size
+5.y-axis(tip) and x-axis(total_bill) : tip relation with total_bill y-axis(tipl) and x-axis(tip) : tip relation with tip y-axis(tip) and x-axis(size) : tip relation with size.
 
-6.y-axis(size) and x-axis(total_bill) : size relation with total_bill y-axis(size) and x-axis(tip) : size relation with tip y-axis(size) and x-axis(size) : size relation with size
+6.y-axis(size) and x-axis(total_bill) : size relation with total_bill y-axis(size) and x-axis(tip) : size relation with tip y-axis(size) and x-axis(size) : size relation with size.
